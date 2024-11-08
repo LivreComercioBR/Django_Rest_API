@@ -21,7 +21,7 @@ Please take a look at requirements.txt file to see the dependecies.
 
 #### If you want to download the schema used in this project just use this link:
 
-    - api/schema/schema/
+    - api/schema/
 
 ### api paths:
  - /api/create_user/
